@@ -273,8 +273,8 @@ a:hover {
 }
 
 .row-no-gutters {
-    margin-right: 0;
-    margin-left: 0;
+    margin-right: 3px;
+    margin-left: 3px;
 }
 
 .row.row-no-gutters > [class^="col-sm-4"],
