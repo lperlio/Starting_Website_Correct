@@ -277,8 +277,8 @@ a:hover {
     margin-left: 0;
 }
 
-.row.row-no-gutters > [class^="col-"],
-.row.row-no-gutters > [class*=" col-"] {
+.row.row-no-gutters > [class^="col-sm-4"],
+.row.row-no-gutters > [class*=" col-sm-4"] {
     padding-right: 0;
     padding-left: 0;
 }
