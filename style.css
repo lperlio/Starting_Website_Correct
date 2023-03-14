@@ -743,7 +743,8 @@ h4 {
     margin-top: 24px;
 }
 
-.text-center h2 {
+.white h2 {
+    text-align: center;
     color: #FFFFFF!important;
 }
 
